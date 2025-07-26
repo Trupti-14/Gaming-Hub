@@ -4,7 +4,7 @@
 Gaming Hub is a group project developed using Java, focused on creating an engaging multi-level console-based game.
 <br> 
 The game is designed with increasing difficulty levels, where players can only progress by winning the current stage.
-<br>
+<br><br>
 🕹Features added :
 <br>
 🔐 Level Unlock System: Each level unlocks after the previous one is cleared
